@@ -11,6 +11,7 @@
     margin-right: auto;
     padding: 1rem;
     margin-bottom: 10px;
+    
   }
   
   .skill-container > h3 {
@@ -19,7 +20,7 @@
   }
   
   body {
-    background-image: url('images/images\ \(1\).jpeg');
+    background-image: url('images/depositphotos_84479362-stock-illustration-cartoon-banana-background.jpg');
     background-attachment: fixed;
     background-size: cover;
   }
@@ -32,7 +33,10 @@
 li{
     list-style: none;
 }
-
+ h3{
+  color: rgb(230, 21, 245);
+  font-style: italic;
+ }
   
 
   
