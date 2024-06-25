@@ -23,6 +23,7 @@
     background-image: url('images/depositphotos_84479362-stock-illustration-cartoon-banana-background.jpg');
     background-attachment: fixed;
     background-size: cover;
+    
   }
   
   .logo_img{
@@ -38,6 +39,13 @@ li{
   font-style: italic;
  }
   
+.bg-container{
+  
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: rgb(239, 237, 134);
+}
 
-  
-  
+.fontss{
+  font-family: kanitt;
+}
